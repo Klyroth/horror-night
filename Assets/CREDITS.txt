@@ -1,0 +1,41 @@
+Horror Night — Asset Credits
+============================
+
+Horror Night is built with third-party assets. Thank you to their authors.
+
+3D MODELS — ENVIRONMENTS
+- Quaternius — Downtown City MegaKit (CC0)
+  https://quaternius.com
+- Kenney — City Kit: Industrial (CC0)
+  https://kenney.nl
+- Kenney — City Kit: Roads (CC0)
+  https://kenney.nl
+
+3D MODELS — CHARACTERS
+- Quaternius — Zombie Apocalypse Kit (CC0)
+  https://quaternius.com
+- Quaternius — Skeleton Zombie (CC0)
+  https://quaternius.com
+
+3D MODELS — WEAPONS (Sketchfab, CC-BY)
+- Jainesh Pathak — Scar-H rifle (CC-BY)
+  https://sketchfab.com
+- MasterBozo — Low-Poly Sniper Rifle (CC-BY)
+  https://sketchfab.com
+- Matt Rafferty — FPS Arms (CC-BY)
+  https://sketchfab.com
+
+NOTE ON WEAPONS: the in-game weapon is the Low-Poly Sniper Rifle by
+MasterBozo. The Scar-H rifle and FPS Arms rigs are broken under glTFast
+(their arm rigs import at extreme scale) and are NOT used in-game; they
+are credited here as source assets included in the project.
+
+SOUNDS
+- Kenney — Impact Sounds (CC0)
+  https://kenney.nl
+- felix.blume — rifle gunshot, Freesound #710084 (CC0)
+  https://freesound.org
+- 137SOUNDS — zombie groan, Freesound #246487 (CC-BY)
+  https://freesound.org
+
+The main-menu credits line in-game lists the same authors.
